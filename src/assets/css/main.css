@@ -66,3 +66,13 @@ html.dark #darkToggle:hover .horizon {
     transform: translate3d(0, 10, 0)
   }
 }
+
+span.linkedin-button {
+  margin-left: 7px;
+  margin-bottom: 4px;
+  height: 10px;
+}
+
+span.linkedin-button:hover svg {
+  fill: #000;
+}
